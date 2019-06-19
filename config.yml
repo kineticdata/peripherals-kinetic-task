@@ -1,0 +1,10 @@
+---
+repo-name: peripherals-kinetic-task
+categories:
+- Automation
+- DevOps
+display-name: Kinetic Task
+manufacture: Kinetic
+product: Task
+description: A collection of handlers useful for interacting with Kinetic Task.
+thumbnail: thumbnail.png
