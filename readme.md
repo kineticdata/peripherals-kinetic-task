@@ -1,3 +1,3 @@
 ![Source Icon](thumbnail.png)
 # Kinetic Task
-A collection of handlers useful for interacting with Kinetic Task.
+The Workflow component of the Kinetic Platform.
