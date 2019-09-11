@@ -6,5 +6,5 @@ categories:
 display-name: Kinetic Task
 manufacture: Kinetic
 product: Task
-description: A collection of handlers useful for interacting with Kinetic Task.
+description: The Workflow component of the Kinetic Platform.
 thumbnail: thumbnail.png
